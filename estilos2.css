@@ -1,0 +1,272 @@
+
+
+/*Fondo de pantalla*/
+
+body{
+	
+	background-image: url('img2/inter.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+/*Formato tabla*/
+
+
+th{
+      border-style: dashed groove none dotted;
+	  background-color: lightcyan;
+	  border-color: white;
+	  color: black;
+	  text-align: left;
+}
+
+td{
+	 border-style: outset;
+	 background-color: darkTurquoise ;
+	 color: black; 
+	
+}
+
+/*Título peliculas tabla*/
+
+caption{
+	
+	font-size: 30pt;
+	text-align: center;
+	Color: White;
+	font-style: italic;
+	border-style: outset;
+	border-color:blue;
+	background-color: darkTurquoise 
+}
+
+/*Centrado de tabla*/
+
+	
+table{
+	
+	
+     width: 50px;
+     margin: 0 auto;
+
+	
+}
+
+/*FORMATO DE LISTA DE DEFINICIONES*/
+
+.edad{
+	
+	font-family:sans-serif;
+	margin-top: 100px;
+	text-align: left;
+	font-weight: 800;
+	font-size: 20px;
+	color:transparent;
+	background-image:url('img2/colores.gif');
+	background-position: center;
+	-webkit-background-clip: text;
+	
+}
+
+.idioma{
+	
+	font-family:sans-serif;
+	margin-top: 100px;
+	text-align: left;
+	font-weight: 800;
+	font-size: 20px;
+	color:transparent;
+	background-image:url('img2/colores.gif');
+	background-position: center;
+	-webkit-background-clip: text;
+	
+	
+}
+
+
+
+/*Título de películas*/
+
+.pelis{
+	
+
+	font-family:sans-serif;
+	margin-top: 100px;
+	text-align: center;
+	font-weight: 800;
+	font-size: 100px;
+	color:transparent;
+	background-image:url('img2/g2.gif');
+	background-position: center;
+	-webkit-background-clip: text;
+}
+
+/*Título*/
+
+.resume{
+	
+	Color: white;
+	font-size: 20pt;
+	font-style: normal;
+	font-weight: 600;
+	text-align: center;
+	font-weight: 800;
+	border-style: outset;
+	border-color:white;
+	background-color: grey
+}
+
+div{
+	
+	background-image:url('img2/fondo.jpg');
+	Color:black;
+	font-size: 1.3rem;
+	
+}
+
+/*decoración links*/
+
+.extern{
+
+    font-size: 1.3rem;
+    text-align: center;
+	color: darkTurquoise;
+	font-weight: bold;
+}
+
+.intern{
+	
+	font-size: 1rem;
+    text-align: center;
+	color: darkmagenta;
+	font-weight: bold;
+	
+}
+
+/*lista ordenada*/
+
+.enl{
+	
+	Color:black;
+	font-size: 1.3rem;
+    font-size: 16pt;
+	font-style: normal;
+	font-weight: 600;
+	font-weight: 800;
+	border-style: outset;
+	width: 300px;
+	border-color:white;
+	background-image:url('img2/fondo.jpg');
+	text-align: center;
+}
+
+.tablep{
+	
+	Color:black;
+	font-size: 1.3rem;
+    font-size: 16pt;
+	font-style: normal;
+	font-weight: 600;
+	font-weight: 800;
+	border-style: outset;
+	width: 300px;
+	border-color:white;
+	background-color: white;
+	text-align: center;
+}
+
+.act{
+	
+	Color:black;
+	font-size: 1.3rem;
+    font-size: 16pt;
+	font-style: normal;
+	font-weight: 600;
+	font-weight: 800;
+	border-style: outset;
+	width: 300px;
+	border-color:white;
+	background-image:url('img2/fondo.jpg');
+	text-align: center;
+}
+
+.sino{
+	
+	Color:black;
+	font-size: 1.3rem;
+    font-size: 16pt;
+	font-style: normal;
+	font-weight: 600;
+	font-weight: 800;
+	border-style: outset;
+	width: 300px;
+	border-color:white;
+	background-image:url('img2/fondo.jpg');
+	text-align: center;
+	
+}
+
+.formu{
+	
+	
+	Color:black;
+	font-size: 1.3rem;
+    font-size: 16pt;
+	font-style: normal;
+	font-weight: 600;
+	font-weight: 800;
+	border-style: outset;
+	width: 300px;
+	border-color:white;
+	background-image:url('img2/fondo.jpg');
+	text-align: center;
+}
+
+
+/*Recopilatorio párrafo*/
+
+.reco{
+	
+	font-family:sans-serif;
+	text-align: left;
+	font-weight: 800;
+	font-size: 20px;
+	color:white;
+	background: darkTurquoise ;
+	border-style: outset;
+	margin-top: 100px;
+	width: 1000px;
+}
+
+/*Formato Formulario*/
+
+input{
+	 border-style: dashed groove none dotted;
+	 background-color: lightgrey;
+}	 
+	 
+	 
+legend{
+	
+	Color:black;
+	font-size: 1.3rem;
+	
+}
+
+.inf{
+	
+	font-family:sans-serif;
+	text-align: left;
+	font-weight: 800;
+	font-size: 20px;
+	color:transparent;
+	background-image:url('img2/colores.gif');
+	background-position: center;
+	-webkit-background-clip: text;
+}
+	
+
+	 
+	 
+
+	
